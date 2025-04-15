@@ -1,5 +1,9 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
+# For task 2 - 1
+.tmp/
+*_old
+*_backup
 #launch.json folder
 .vscode/
 #Cache folder
